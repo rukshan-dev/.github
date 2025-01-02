@@ -1,12 +1,53 @@
-## Hi there 👋
+# Hi there, I'm Rukshan! 👋
 
-<!--
+Welcome to my GitHub profile! Here's a bit about me and what I love to do:  
 
-**Here are some ideas to get you started:**
+---
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 🚀 About Me
+- 💼 **Profession:** Staff Engineer at Delivery Hero, Germany.  
+- 🌍 **From:** Born in Colombo, Sri Lanka, now living in vibrant Berlin.  
+
+---
+
+## 🛠 What I'm Building
+### 🏗 Repacked
+A streamlined build toolchain, inspired by tools like `create-react-app`. It's perfect for React developers who love simplicity and flexibility!  
+- 🚀 Initialize easily: `npx create-repacked` or `yarn create repacked`.  
+- 🌐 Check out the docs: [repacked.dev](https://repacked.dev)  
+- ✨ All configurations are optional and simple.  
+
+---
+
+## 🔧 Commonly used Technologies & Tools
+- **Frontend:** React, TypeScript
+- **Backend:** Node.js
+- **Bundling:** `tsup`, Webpack, Vercel NCC (this is goood).  
+- **CI/CD:** GitHub Actions, DroneCI.  
+
+---
+
+## 🎥 On the Side
+- Planning a YouTube series featuring React tutorials with Repacked. 🎬  
+
+---
+
+## 🗣 Languages
+- 🇩🇪 Currently learning German!  
+- 🧑‍💻 Fluent in the language of code. 😉  
+
+---
+
+## 🌱 Personal Principles
+- YAGNI: Build what you need when you need it.  
+- Keep things light and flexible.  
+
+---
+
+## 📫 Connect with Me
+- Feel free to open an issue or PR if you’re using Repacked and have ideas or feedback!  
+- Interested in collaborations? Let’s talk! (hello@rukshan.dev) 
+
+---
+
+Thanks for stopping by! 🚀  
